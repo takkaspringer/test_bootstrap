@@ -1,40 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- ナビゲーション -->
-<nav>
-    <p>ホーム | サービス | 価格 | チーム</p>
-</nav>
-
-<!-- ヒーローセクション -->
-<section>
-    <h1>あなたもイケメンのゴリラに</h1>
-</section>
-<img src="./ikegori.jpg" height="300">
-<!-- サービスセクション-->
-<section>
-    <h2>サービス</h2>
-    <p>おいしいイケメンになれるバナナを販売しています。</p>
-</section>
-
-<!-- 価格セクション-->
-<section>
-    <h2>バナナサービス</h2>
-    <p>たくさんの中から好きな🍌選べます。</p>
-</section>
-
-<!-- チームセクション-->
-<section>
- 
-    <p>店長１名とゴリラ３匹で構成されています。</p>
-</section>
-<img src="./banana.jpg" height="300">
-<button type="button">🍌</button>
-<button type="button">🐒</button>
-<button type="button">🦍</button>
-<!-- フッター -->
-<footer>
-    <a href="#">バナナのトップへジャンプ</a>
-    <p>&copy; </p>うほほっほ(株)
-</footer>
+<html>
+    <body>
+        <p>HTMLのお試し</p>
+        <button>ボタン</button>
+    </body>
 </html>
